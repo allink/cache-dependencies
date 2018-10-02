@@ -1,3 +1,6 @@
+Copied from: https://bitbucket.org/emacsway/cache-dependencies/commits/tag/0.7.7.48
+
+
 ============================================
 Cache Dependencies (with support for Django)
 ============================================
